@@ -1,0 +1,294 @@
+#EXTM3U FIPTVSH 
+
+#EXTINF:-1 tvg-id="********** Macedonian *************" tvg-link="" tvg-name="********** Macedonian *************" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/Mak.png" group-title="Macedonian",********** Macedonian ************* 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=548&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="MRT1" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Mrt 1" tvg-logo="http://5.189.151.71/mrt_mk_tv_1.png" group-title="Macedonian",Mrt 1 
+
+http://strimer01.vlagor-iptv.com:80/live.ts?channelId=1&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Mrt 3" tvg-link="" tvg-name="Mrt 3" tvg-logo="#http://5.189.151.71/1%20Zemji%20Logo/sitel2.png" group-title="Macedonian",Mrt 3 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=6&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Mrt 4" tvg-link="" tvg-name="Mrt 4" tvg-logo="" group-title="Macedonian",Mrt 4 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=1184&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Mrt 5" tvg-link="" tvg-name="Mrt 5" tvg-logo="" group-title="Macedonian",Mrt 5 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=7&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Sobraniski Kanal" tvg-link="" tvg-name="Sobraniski Kanal" tvg-logo="http://5.189.151.71/MRT_Sobraniski_Kanal_new_logo.png" group-title="Macedonian",Sobraniski Kanal 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=3&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Sitel" tvg-link="" tvg-name="Sitel" tvg-logo="http://5.189.151.71/sitel.png" group-title="Macedonian",Sitel 
+
+http://strimer2x.vlagor-iptv.com:80/live.ts?channelId=5&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Sitel HD" tvg-link="" tvg-name="Sitel HD" tvg-logo="http://5.189.151.71/sitel.png" group-title="Macedonian",Sitel HD 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=459&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="TV Alfa" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Alfa MK" tvg-logo="http://5.189.151.71/alfa_tv_mk.png" group-title="Macedonian",Alfa MK 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=8&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Alfa HD" tvg-link="" tvg-name="Alfa HD" tvg-logo="http://5.189.151.71/alfa_tv_mk.png" group-title="Macedonian",Alfa HD 
+
+http://strimer2x.vlagor-iptv.com:80/live.ts?channelId=460&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Kanal 5" tvg-link="" tvg-name="Kanal 5" tvg-logo="http://5.189.151.71/kanal5_mk.png" group-title="Macedonian",Kanal 5 
+
+http://strimer01.vlagor-iptv.com:80/live.ts?channelId=9&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Telma" tvg-link="" tvg-name="Telma" tvg-logo="http://5.189.151.71/Telma.png" group-title="Macedonian",Telma 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=10&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Telma HD" tvg-link="" tvg-name="Telma HD" tvg-logo="http://5.189.151.71/Telma.png" group-title="Macedonian",Telma HD 
+
+http://strimer2x.vlagor-iptv.com:80/live.ts?channelId=458&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="TV 24" tvg-link="" tvg-name="TV 24" tvg-logo="http://5.189.151.71/24mk.png" group-title="Macedonian",TV 24 
+
+http://strimer06.vlagor-iptv.com:80/live.ts?channelId=11&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="TV Sonce" tvg-link="" tvg-name="TV Sonce" tvg-logo="http://5.189.151.71/TV-SONCE.png" group-title="Macedonian",TV Sonce 
+
+http://strimer01.vlagor-iptv.com:80/live.ts?channelId=257&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="MTM" tvg-link="" tvg-name="MTM" tvg-logo="http://5.189.151.71/mtm.png" group-title="Macedonian",MTM 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=358&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Edo" tvg-link="" tvg-name="Edo" tvg-logo="http://5.189.151.71/edo.png" group-title="Macedonian",Edo 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=14&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Shutel" tvg-link="" tvg-name="Shutel" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/shutel.jpg" group-title="Macedonian",Shutel 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=15&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Nasha TV" tvg-link="" tvg-name="Nasha TV" tvg-logo="http://5.189.151.71/images.png" group-title="Macedonian",Nasha TV 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=381&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Tera" tvg-link="http://epg.serbianforum.org/epg.xml" tvg-name="Tera TV" tvg-logo="http://5.189.151.71/tera.png" group-title="Macedonian",Tera TV 
+
+http://strimer03.vlagor-iptv.com:80/live.ts?channelId=387&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="TV Plus Kumanovo" tvg-link="" tvg-name="TV Plus Kumanovo" tvg-logo="http://5.189.151.71/tvplu.png" group-title="Macedonian",TV Plus Kumanovo 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=303&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Folk Club MK" tvg-link="" tvg-name="Folk Club MK" tvg-logo="#http://5.189.151.71/k%203.png" group-title="Macedonian",Folk Club MK 
+
+http://strimer03.vlagor-iptv.com:80/live.ts?channelId=277&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Balkan Music TV" tvg-link="" tvg-name="Balkan Music TV" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/balkan.jpg" group-title="Macedonian",Balkan Music TV 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=464&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="IN TV Australia" tvg-link="" tvg-name="IN TV Australia" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/in%20tv.jpg" group-title="Macedonian",IN TV Australia 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=13&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="********** Albanian *************" tvg-link="" tvg-name="********** Albanian *************" tvg-logo="http://5.189.151.71/1%20Zemji%20Logo/2000px-Flag_of_Albania.svg.png" group-title="Albanian",********** Albanian ************* 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=547&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Alsat-M" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Alsat M ( T )" tvg-logo="http://5.189.151.71/Alsat_M.svg.png" group-title="Albanian",Alsat M ( T ) 
+
+http://strimer06.vlagor-iptv.com:80/live.ts?channelId=12&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Alsat M ( sat )" tvg-link="" tvg-name="Alsat M ( sat )" tvg-logo="http://5.189.151.71/Alsat_M.svg.png" group-title="Albanian",Alsat M ( sat ) 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=18&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Alsat M ( HD )" tvg-link="" tvg-name="Alsat M ( HD )" tvg-logo="#http://5.189.151.71/tt/+2/logo%20vlg/alsat%20hd.jpg" group-title="Albanian",Alsat M ( HD ) 
+
+http://strimer2x.vlagor-iptv.com:80/live.ts?channelId=461&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Mrt 2" tvg-link="" tvg-name="Mrt 2" tvg-logo="http://5.189.151.71/mrt_mk_tv_2_sat.png" group-title="Albanian",Mrt 2 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=2&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="ERA TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="TV Era" tvg-logo="http://5.189.151.71/hana.png" group-title="Albanian",TV Era 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=17&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Shenja TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="TV Shenja" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/shenja.jpg" group-title="Albanian",TV Shenja 
+
+http://strimer2x.vlagor-iptv.com:80/live.ts?channelId=16&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="TV Koha" tvg-link="" tvg-name="TV Koha" tvg-logo="" group-title="Albanian",TV Koha 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=1053&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTV 21" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="RTV 21" tvg-logo="http://5.189.151.71/rtv21.png" group-title="Albanian",RTV 21 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=19&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTV 21 MK" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="RTV 21 Macedonia HD" tvg-logo="http://5.189.151.71/rtv_21_mk.png" group-title="Albanian",RTV 21 Macedonia HD 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=305&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Klan Macedonia" tvg-link="" tvg-name="Klan Macedonia" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/art.jpg" group-title="Albanian",Klan Macedonia 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=250&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Klan Kosova" tvg-logo="http://5.189.151.71/klan_kosova.png" group-title="Albanian",Klan Kosova 
+
+http://strimer06.vlagor-iptv.com:80/live.ts?channelId=26&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="KTV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="KTV Koha Vision" tvg-logo="http://5.189.151.71/koha_vision.png" group-title="Albanian",KTV Koha Vision 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=28&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="T7" tvg-link="" tvg-name="T7" tvg-logo="" group-title="Albanian",T7 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=730&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTV Dukagjini" tvg-link="" tvg-name="RTV Dukagjini" tvg-logo="http://5.189.151.71/dukiacini.png" group-title="Albanian",RTV Dukagjini 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=349&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Top Channel" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Top Channel HD" tvg-logo="http://5.189.151.71/top_channel.png" group-title="Albanian",Top Channel HD 
+
+http://strimer01.vlagor-iptv.com:80/live.ts?channelId=31&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Klan TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Klan HD" tvg-logo="http://5.189.151.71/klan_al_tv_hd.png" group-title="Albanian",Klan HD 
+
+http://strimer06.vlagor-iptv.com:80/live.ts?channelId=29&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Vizion Plus" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Vizion plus" tvg-logo="http://5.189.151.71/vizion_plus.png" group-title="Albanian",Vizion plus 
+
+http://strimer2x.vlagor-iptv.com:80/live.ts?channelId=57&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTK HD" tvg-link="" tvg-name="RTK HD" tvg-logo="" group-title="Albanian",RTK HD 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=954&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTK 1" tvg-link="" tvg-name="RTK 1" tvg-logo="http://5.189.151.71/dtv-channel-rtk1.png" group-title="Albanian",RTK 1 
+
+http://strimer2x.vlagor-iptv.com:80/live.ts?channelId=27&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTK 2" tvg-link="" tvg-name="RTK 2" tvg-logo="http://5.189.151.71/dtv-channel-rtk2.png" group-title="Albanian",RTK 2 
+
+http://strimer06.vlagor-iptv.com:80/live.ts?channelId=322&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTK 3" tvg-link="" tvg-name="RTK 3" tvg-logo="http://5.189.151.71/dtv-channel-rtk3.png" group-title="Albanian",RTK 3 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=353&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTK 4" tvg-link="" tvg-name="RTK 4" tvg-logo="http://5.189.151.71/dtv-channel-rtk4.png" group-title="Albanian",RTK 4 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=354&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTSH 1" tvg-link="" tvg-name="RTSH 1" tvg-logo="http://5.189.151.71/tvsh_al.png" group-title="Albanian",RTSH 1 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=24&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTSH 2" tvg-link="" tvg-name="RTSH 2" tvg-logo="" group-title="Albanian",RTSH 2 
+
+http://strimer03.vlagor-iptv.com:80/live.ts?channelId=521&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTSH 3" tvg-link="" tvg-name="RTSH 3" tvg-logo="" group-title="Albanian",RTSH 3 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=522&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTSH Plus" tvg-link="" tvg-name="RTSH Plus" tvg-logo="" group-title="Albanian",RTSH Plus 
+
+http://strimer03.vlagor-iptv.com:80/live.ts?channelId=720&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Rrokum TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Kanal 10" tvg-logo="http://5.189.151.71/tt/+2/rrokum_tv_rs.png" group-title="Albanian",Kanal 10 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=86&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="first CHANNEL" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="First Channel" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/first.jpg" group-title="Albanian",First Channel - First Channel 
+
+http://strimer01.vlagor-iptv.com:80/live.ts?channelId=58&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Liria TV" tvg-link="" tvg-name="Liria TV" tvg-logo="" group-title="Albanian",Liria TV 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=966&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="1021-24 Kitchen" tvg-link="http://91.102.228.206/epg/epg2.xml" tvg-name="24 Kitchen Alb" tvg-logo="http://5.189.151.71/24_kitchen.png" group-title="Albanian",24 Kitchen Alb 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=335&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="club tv" tvg-link="" tvg-name="club tv" tvg-logo="http://5.189.151.71/club_tv_al.png" group-title="Albanian",club tv 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=331&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Tring International" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Tring Internacional" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/tring%20int.jpg" group-title="Albanian",Tring Internacional 
+
+http://strimer03.vlagor-iptv.com:80/live.ts?channelId=384&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Muse" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Muse" tvg-logo="http://5.189.151.71/muse_al.png" group-title="Albanian",Muse - Muse 
+
+http://strimer01.vlagor-iptv.com:80/live.ts?channelId=82&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Drita TV" tvg-link="" tvg-name="Drita TV" tvg-logo="" group-title="Albanian",Drita TV 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1007&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Cka ka shpija" tvg-link="" tvg-name="Cka ka shpija" tvg-logo="" group-title="Albanian",Cka ka shpija 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1150&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Stupcat" tvg-link="" tvg-name="Stupcat" tvg-logo="" group-title="Albanian",Stupcat 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=1151&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="TV Mitrovica" tvg-link="" tvg-name="TV Mitrovica" tvg-logo="" group-title="Albanian",TV Mitrovica 
+
+http://strimer03.vlagor-iptv.com:80/live.ts?channelId=1152&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Syri Vision" tvg-link="" tvg-name="Syri Vision" tvg-logo="" group-title="Albanian",Syri Vision 
+
+http://strimer03.vlagor-iptv.com:80/live.ts?channelId=1160&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="------------ Muzikë ------------" tvg-link="" tvg-name="------------ Muzikë ------------" tvg-logo="" group-title="Albanian",------------ Muzikë ------------ 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=1166&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Topestrada Music TV" tvg-link="" tvg-name="Topestrada Music TV" tvg-logo="http://5.189.151.71/tt/+2/logo%20vlg/topestrada.jpg" group-title="Albanian",Topestrada Music TV 
+
+http://strimer03.vlagor-iptv.com:80/live.ts?channelId=374&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTV 21 Plus" tvg-link="" tvg-name="RTV 21 Plus" tvg-logo="http://5.189.151.71/21%20plus.png" group-title="Albanian",RTV 21 Plus 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=20&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="RTV 21 Mix" tvg-link="" tvg-name="RTV 21 Mix" tvg-logo="http://5.189.151.71/mix.png" group-title="Albanian",RTV 21 Mix 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=317&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="21 Popullore" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="RTV 21 Popullore" tvg-logo="http://5.189.151.71/rtv_21_rs_popullore.png" group-title="Albanian",RTV 21 Popullore 
+
+http://strimer07.vlagor-iptv.com:80/live.ts?channelId=21&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Folk Plus" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Folk Plus" tvg-logo="http://5.189.151.71/folk_plus.png" group-title="Albanian",Folk Plus 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=67&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="BBF" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="BBF Music" tvg-logo="http://5.189.151.71/tring_bbf_music_tv.png" group-title="Albanian",BBF Music 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=61&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="Elrodi TV" tvg-logo="http://5.189.151.71/elrodi_tv_al.png" group-title="Albanian",Elrodi TV 
+
+http://strimer05.vlagor-iptv.com:80/live.ts?channelId=315&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="STV Folk" tvg-link="" tvg-name="STV Folk" tvg-logo="" group-title="Albanian",STV Folk 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=1147&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
+#EXTINF:-1 tvg-id="My Music" tvg-link="http://www.albepg.com/epg/guide.xml" tvg-name="My Music" tvg-logo="http://5.189.151.71/digit_alb_my_music.png" group-title="Albanian",My Music 
+
+http://strimer04.vlagor-iptv.com:80/live.ts?channelId=62&deviceUser=BesarJASHAR&devicePass=snm8MmhwsJNqSaBj&uid=2868 
+
